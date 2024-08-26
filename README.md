@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chaitra Hegde</h1>
-<h3 align="center">A passionate tech Innovator From India</h3>
+<h3 align="center">A passionate tech Innovator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitrarh9&label=Profile%20views&color=0e75b6&style=flat" alt="chaitrarh9" /> </p>
 
 - 🌱 I’m currently learning **Java DSA, Spring, Flutter**
 
-- 👯 I’m looking to collaborate on **Cloud based Projects**
+- 👯 I’m looking to collaborate on **MERN Based Projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **Flutter App Developments**
 
 - 💬 Ask me about **web development**
 
